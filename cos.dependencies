@@ -10,7 +10,7 @@
    "repository": "lge-kernel-iproj",
    "target_path": "kernel/lge/iproj",
    "branch": "cm-10.1"
- }
+ },
  {
    "project": "TheMuppets",
    "repository": "proprietary_vendor_lge",
