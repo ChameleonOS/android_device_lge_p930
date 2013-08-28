@@ -3,18 +3,18 @@
    "project": "CyanogenMod",
    "repository": "android_device_lge_iprj-common",
    "target_path": "device/lge/iprj-common",
-   "branch": "cm-10.1"
+   "branch": "cm-10.2"
  },
  {
    "project": "CyanogenMod",
    "repository": "lge-kernel-iproj",
    "target_path": "kernel/lge/iproj",
-   "branch": "cm-10.1"
+   "branch": "cm-10.2"
  },
  {
    "project": "TheMuppets",
    "repository": "proprietary_vendor_lge",
    "target_path": "vendor/lge",
-   "branch": "cm-10.1"
+   "branch": "cm-10.2"
  }
 ]
